@@ -12,7 +12,6 @@ A full-stack e-commerce application built using the MERN stack.
 - User authentication
 - Product management
 - Cart & checkout
-- Payment integration
 
 ## Setup Instructions
 ```bash
